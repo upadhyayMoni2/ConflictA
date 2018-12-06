@@ -1,7 +1,7 @@
 If(A)
 
 {
- think 
+ think
  achive
- done	
+ not yet ...soon
 }
