@@ -3,5 +3,5 @@ If(A)
 {
  think
  achive
- not yet ...soon
+ one day achieve
 }
